@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3737108f80a080c4c9603de49477b953, type: 3}
+  m_Name: Talk_Drink
+  m_EditorClassIdentifier: 
+  msgArray:
+  - name: "\u30D7\u30EC\u30A4\u30E4\u30FC"
+    message: "\u53E4\u3073\u305F\u624B\u8A18\u3060\u3002"
+  - name: "\u8AB0\u304B\u306E\u624B\u8A18"
+    message: "\u56DE\u5FA9\u85AC\u3092\u843D\u3068\u3057\u3066\u3057\u307E\u3063\u305F\u3002\n\u3042\u308C\u304C\u3042\u308C\u3070\u4F53\u529B\u3092\u56DE\u5FA9\u3067\u304D\u305F\u3002"
+  - name: "\u8AB0\u304B\u306E\u624B\u8A18"
+    message: "\u3088\u308A\u306B\u3088\u3063\u3066\u5316\u3051\u7269\u3069\u3082\u306E\u51FA\u308B\u68EE\u306E\u4E2D\u3067\u3002\u3002"

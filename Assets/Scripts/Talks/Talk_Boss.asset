@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3737108f80a080c4c9603de49477b953, type: 3}
+  m_Name: Talk_Boss
+  m_EditorClassIdentifier: 
+  msgArray:
+  - name: "\u30D7\u30EC\u30A4\u30E4\u30FC"
+    message: "\u4F55\u304B\u30E1\u30E2\u304C\u843D\u3061\u3066\u3044\u308B"
+  - name: "\u8AB0\u304B\u306E\u30E1\u30E2"
+    message: "\u3042\u306E\u30B4\u30FC\u30EC\u30E0\u3042\u3044\u3064\u304C\u3053\u306E\u3042\u305F\u308A\u4E00\u4F53\u306E\u78C1\u5834\u3092\u3086\u304C\u3081\u3066\u3044\u3084\u304C\u308B\u3002"
+  - name: "\u8AB0\u304B\u306E\u30E1\u30E2"
+    message: "\u30B4\u30FC\u30EC\u30E0\u306F\u5149\u5F3E\u3067\u5F3E\u5E55\u3092\u5F35\u3063\u3066\u304F\u308B\u3002"
+  - name: "\u8AB0\u304B\u306E\u30E1\u30E2"
+    message: "\u3060\u3051\u3069\u3001\u6240\u8A6E\u306F\u571F\u4EBA\u5F62\u3001\n\u970A\u672D\u3068\u65AC\u6483\u3082\u901A\u308B\u3088\u3046\u3060\u3002"
+  - name: "\u8AB0\u304B\u306E\u30E1\u30E2"
+    message: "\u7D50\u754C\u3082\u5F35\u3063\u3066\u6E96\u5099\u306F\u3067\u304D\u305F\u3002\n\u5C11\u3057\u4F11\u3080\u3068\u3059\u308B\u3002"
