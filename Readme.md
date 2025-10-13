@@ -3,7 +3,7 @@
 ライトを取得して、鍵を集め扉からの脱出を目指しましょう。
 
 ## ゲームプレイ方法
-[ゲームのサンプルプレイ](https://rune337.github.io/BattleofDarkness_Build/)
+[ゲームのサンプルプレイ](https://rune337.github.io/BattleofDarkness_Build/)<br>
 ![ゲーム画面](readmeImg/Battle_Of_Darkness.jpg)
 
 ### 操作方法
