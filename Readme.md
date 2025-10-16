@@ -1,3 +1,9 @@
+### Battle Of Darkness
+
+## ゲームプレイ方法
+[ゲームのサンプルプレイ](https://rune337.github.io/BattleofDarkness_Build/)<br>
+![ゲーム画面](readmeImg/Battle_Of_Darkness.jpg)
+
 ## 訓練校で学習する2作目の2D作品
 * キャラクターの移動
 * コルーチン
@@ -7,9 +13,7 @@
 プレイヤーを操作して敵を倒しながら脱出を目指す2Dゲームです。
 ライトを取得して、鍵を集め扉からの脱出を目指しましょう。
 
-## ゲームプレイ方法
-[ゲームのサンプルプレイ](https://rune337.github.io/BattleofDarkness_Build/)<br>
-![ゲーム画面](readmeImg/Battle_Of_Darkness.jpg)
+
 
 ### 操作方法
 * Aキー (左キー) :左に移動
