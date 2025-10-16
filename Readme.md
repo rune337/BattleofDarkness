@@ -1,6 +1,4 @@
 # Battle Of Darkness
-
-## ゲームプレイ方法
 [ゲームのサンプルプレイ](https://rune337.github.io/BattleofDarkness_Build/)<br>
 ![ゲーム画面](readmeImg/Battle_Of_Darkness.jpg)
 
